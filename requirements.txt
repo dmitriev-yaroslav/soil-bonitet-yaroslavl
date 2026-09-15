@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+rasterio
+scikit-learn
+plotly
+streamlit
+pydeck
+shapely
+tqdm
+requests

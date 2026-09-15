@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+installer_output/
+*.exe
+data/processed/*.csv
+data/processed/*.db
+data/raw/*.csv
+data/raw/*.db
+soilgrids_data/
+.DS_Store
+.streamlit/secrets.toml
